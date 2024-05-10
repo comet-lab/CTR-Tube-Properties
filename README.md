@@ -15,3 +15,7 @@ This repository is organized as follows:
 **_docs_** contains some how-to guides.
 
 **_demaio_thesis_** contains materials from Chris DeMaio's thesis.
+
+Nick Pacheco, Wenpeng Wang, and Prof. FIchera all have a high-level understanding of everything in this repository and should be able to answer basic questions. If they are unable to answer your questions, please feel free to contact Chris:
+
+christopherdemaio1@gmail.com
