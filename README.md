@@ -8,7 +8,7 @@ This repository is organized as follows:
 
 **_code_ino_** contains the Arduino code used to communicate with the encoders via an Arduino Mega board.
 
-**_code_matlab_** contains a variety of MATLAB scripts, mostly used for data vizualization.
+**_data_** contains the pictures taken for the experiments in DeMaio's thesis, Excel spreadsheets showing the results in tabular form, and MATLAB scripts used to visualize the data.
 
 **_mocap_** contains things you will need to download if you want to use the Polaris Vega motion capture sensor, as well as a Getting Started guide.
 
