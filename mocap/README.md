@@ -66,7 +66,7 @@ Because a stray is represented by a single object, the sensor cannot report an o
 
 We have used two tools in the COMET Lab: the "home frame" and the "needle pointer". 
 The home frame is a 3D-printed contraption that attaches to the front of our CTR and represents the CTR's task space home (if you can't find it, ask Wenpeng).
-The needle pointer is a manufactureer-provided (I think) object that allows you to point at an object/location of interest:
+The needle pointer is a manufacturer-provided (I think) object that allows you to point at an object/location of interest:
 
 ![image](https://github.com/comet-lab/CTR-Tube-Properties/assets/62364581/8c34f930-edf5-45fe-b5f3-efebf38dc987)
 
