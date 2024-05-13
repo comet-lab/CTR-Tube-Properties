@@ -60,12 +60,14 @@ It also includes some of this functions I used to run Kalman filter experiments,
 1. Install Visual Studio for Windows.
 2. Open CAPISample.sln in Visual Studio.
 3. Ensure you have required dependencies:
-    1. MathNet.Numerics
+    1. MathNet.Numerics*
     2. MathNet.Numerics.Data.Text
     3. Zeroconf
     4. Newtonsoft.Json
 4. Build the project. You can either build through Visual Studio's UI (make sure the configuration is set to "Release") or you can build throught the command line: `dotnet build CAPISample.sln -c Release`.
 5. Run the code. The executable can be found in `CAPISampleApplication\bin\Release\netcoreapp3.1`.
+
+* I'd like to take this opportunity to sing the praises of the Math.NET Numerics library. It does all kinds of cool math things that would otherwise seem impossible to accomplish in C#. Check out the source code [here](https://github.com/mathnet/mathnet-numerics).
 
 # Troubleshooting
 
