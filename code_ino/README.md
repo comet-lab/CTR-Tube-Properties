@@ -3,6 +3,7 @@
 ## Hardware
 
 Encoders: [DigiKey Part Num AS5048A-AB-1.0-ND](https://www.digikey.com/en/products/detail/ams-osram-usa-inc/AS5048A-TS-EK-AB/3188612). [Datasheet](https://www.mouser.com/datasheet/2/588/AS5048_DS000298_4_00-2324531.pdf)
+
 Control Board: [Arduino Mega](https://store.arduino.cc/products/arduino-mega-2560-rev3)
 
 ## Wiring
