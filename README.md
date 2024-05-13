@@ -16,6 +16,6 @@ This repository is organized as follows:
 
 **_demaio_thesis_** contains materials from Chris DeMaio's thesis.
 
-Nick Pacheco, Wenpeng Wang, and Prof. FIchera all have a high-level understanding of everything in this repository and should be able to answer basic questions. If they are unable to answer your questions, please feel free to contact Chris:
+Nick Pacheco, Wenpeng Wang, and Prof. FIchera all have a general understanding of everything in this repository and should be able to answer basic questions. If they are unable to answer your questions, please feel free to contact Chris:
 
 christopherdemaio1@gmail.com
